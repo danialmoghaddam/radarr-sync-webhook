@@ -1,6 +1,6 @@
 # Radarr Sync Webhook
 
-Radarr Sync Webhook adds downloaded movies from a Radarr instance to another Radarr instance automatically.
+Radarr Sync Webhook adds downloaded movies from a Radarr instance to another Radarr instance automatically..
 
 ## Requirements
 
